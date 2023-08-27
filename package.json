@@ -13,8 +13,8 @@
     "vue-template-compiler": "^2.7.14"
   },
   "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.2.0",
     "sass": "^1.66.1",
-    "vite": "^2.9.16",
-    "vite-plugin-vue2": "^2.0.3"
+    "vite": "^4.4.9"
   }
 }
