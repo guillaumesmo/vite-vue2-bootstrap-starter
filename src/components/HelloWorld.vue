@@ -14,7 +14,7 @@
       >Vue 2 Documentation</a>
     </p>
 
-    <button @click="count++">count is: {{ count }}</button>
+    <b-button variant="success" @click="count++">count is: {{ count }}</b-button>
     <p>
       Edit
       <code>components/HelloWorld.vue</code> to test hot module replacement.
